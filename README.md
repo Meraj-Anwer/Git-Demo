@@ -1,0 +1,1 @@
+GitHub, meanwhile, serves as a host for Git repository teams to store their code in a centralized location. While Git is a tool that's used to manage multiple versions of source code edits that are then transferred to files in a Git repository, GitHub serves as a location for uploading copies of a Git repository.
